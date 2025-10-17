@@ -1,2 +1,3 @@
-# TrackMyStudent
-Course management platform for instructor–student scheduling and communication.
+# TrackMyStudent – Project Report
+This repository contains only the analysis report for the TrackMyStudent project.
+
